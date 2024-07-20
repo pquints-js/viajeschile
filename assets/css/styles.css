@@ -1,26 +1,21 @@
 html {
     scroll-behavior: smooth;
-  }
+}
 
 
-
- body{
+body{
     background-color: #000000;
     color: #ffffff;
     font-family: Open Sans;
- }
+}
 
 nav div img{
     width: 4rem;
 }
 
-section{
-    background-color: black;
-}
 
-.fontColor{
-    color: #ffffff;
-    font-size: 1rem;
+.colorCard{
+    color: #ffffff !important;
 }
 
 .cambioDisplay{
@@ -44,4 +39,8 @@ section{
 
 footer{
     background-color: #0dc9f0;
+}
+
+.marginLeft{
+    margin-left: 6rem;
 }
