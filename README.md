@@ -1,15 +1,11 @@
 <<<<<<< HEAD
-proyecto viajes casi liato
-detalles por pulir pero vamos por buen camino
+proyecto viajes listo
+detalles pulidos pero vamos por buen camino
 =======
 #Hola
 
 ##Readme viajes chile
-
-hacer todo de nuevo
-- enfocarse en los minimos detalles
-- enfocarse en divs
-- las imagenes de las tarjetas deben estar bien ordenadas
-
-y mejorar en el orden de la pagina, en general vas bien, pero no es suficiente DALE TU PUEDES!!!
+me costo mucho emparejar las imagenes me guie con el codigo del profe
+finalmente quedo emparejado con un object fit cover para poder emparejar las imagenes
+quedo finoooooooo
 >>>>>>> f9122f9620f8dfa1790e5d758fe94135578d0950
